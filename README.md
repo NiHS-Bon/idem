@@ -3,7 +3,7 @@ https://idem.com.au
 
 ## Abstract
 
-Idem is a open source cross platform mobile application based on the Decentrlaized Identity Foundations DID protocol.
+Idem is an open source cross platform mobile application based on the Decentralised Identity Foundations DID protocol.
 
 Each time an exchange requests an ID verifycation from a user, the provider charges the exchange a fee.  Further, users are required to provide KYC information and have it verified for each and every onboarding, instead of a portable, reusable verification from a trusted provider.  By locally storing user's verified information, we can enhance the customer onboarding experience and reduce costs incurred by Vendors.
 
